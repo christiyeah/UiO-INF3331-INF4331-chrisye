@@ -1,9 +1,9 @@
 Hei dette er en liten test for aa teste ut github
-her skriver
-jeg
-over
-mange
-flere
+naa fjernet jeg bare en hel del linjer her
+jeg, dette er vel ting som er forskjellig
+fra de forste filene,
+naa er baren paa venstre side brunaktig
+
 tusen
 linjer
 enn
